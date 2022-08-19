@@ -11,8 +11,8 @@ Installation:
 
 Run command below to get NodeJS libraries.
 
-npm install
+`npm install`
 
-Run `npm install`
+Run `npm start`
  
  
